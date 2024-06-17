@@ -26,8 +26,16 @@
 	padding: 30px;
 }
 
+.project-logo-wrap {
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: row;
+	gap: 10px;
+}
 .project-logo {
 	width: 30px;
+	align-self: center;
+	text-align: center;
 }
 
 .project-logo img {
