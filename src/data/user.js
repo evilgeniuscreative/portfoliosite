@@ -15,11 +15,11 @@ const INFO = {
 	homepage: {
 		title: "Experienced, multifaceted, creative, committed Front-End Developer, Designer, and UX/UI Specialist.",
 		description:
-			'I am a front end developer and designer with 10+ years of experience who enjoys working with collaborative Agile teams, in an "we all win together" environment, with a deep passion for learning new tech and other modern magic.',
+			'I am a mid-to-senior front end developer and designer as well as a junior back end engineer, with a long UX/UI/Design history. I have 10+ years of experience who enjoys working with collaborative Agile teams, in an "we all win together" environment, with a deep passion for learning new tech and other modern magic.',
 	},
 
 	about: {
-		title: "Ian Kleinfeld, Software Developer, Front End Engineer, with a deep UX, UI, and Design background",
+		title: "Ian Kleinfeld, Software Developer, Front End Engineer, with a deep UX, UI, and Design background.",
 		description:
 			"I can't even remember how many projects I've worked on over the years for private clients or companies or just for fun. But I always learn a lot of new skills and I love it. Each project is a chance to learn something new about technology, design, people, business, and more. Over the years, I've learned everything from the most basic HTML and CSS to arcane and nearly archaic languages like Freemarker, to battleship size CMSs like Khoros Community or Adobe AEM, to cutting edge web dev modern stacks like React, and Vue, with or without Typescript.",
 	},
@@ -33,7 +33,7 @@ const INFO = {
 		{
 			title: "Vue vs Google Maps using NCDOT data",
 			description:
-				"pulling data from the North Carolina Department of transportation open APIs, Users can discover the traffic and construction incidents around the state.",
+				"Pulling data from the North Carolina Department of transportation open APIs, Users can discover the traffic and construction incidents around the state.",
 			logos: [
 				{ id: "0", software: "Vue", img: "images/vuejs.png" },
 				{ id: "99", software: "HTML", img: "images/html5.png" },
@@ -46,7 +46,7 @@ const INFO = {
 		{
 			title: "Fidelity Net Benefits Homepage",
 			description:
-				"worked with a small team of developers and designers to create the Fidelity net, benefits, designs, and markups in a combination of JavaScript, jQuery, Backbone.js, and SCSS",
+				"Worked with a small team of developers and designers to create the Fidelity net, benefits, designs, and markups in a combination of JavaScript, jQuery, Backbone.js, and SCSS. Image only.",
 			logos: [
 				{ id: "1", software: "HTML5", img: "images/html5.png" },
 				{ id: "97", software: "SCSS", img: "images/sass.png" },
@@ -63,13 +63,13 @@ const INFO = {
 		{
 			title: "Los Olivos",
 			description:
-				"Former raw foods online shopping site based on a WordPress Shopp plug-in.",
+				"Former raw foods online shopping site based on a WordPress Shopp plug-in. Image only.",
 			logos: [
 				{ id: "2", software: "Wordpress", img: "images/wordpress.png" },
 				{ id: "95", software: "PHP", img: "images/php.png" },
 			],
 			linkText: "View Thumbnail",
-			link: "images/project-los-olivos.jpg",
+			link: "images/los-olivos.jpg",
 		},
 		{
 			title: "JMP User Community customizations",
@@ -347,7 +347,7 @@ const INFO = {
 		{
 			title: "ESP Nutrition e-Commerce Site",
 			description:
-				"Nutritional supplement e-commerce site built in WordPress and Shopped plug-in.",
+				"Nutritional supplement e-commerce site built in WordPress and Shopped plug-in. Image only",
 			logos: [
 				{
 					id: "15",
@@ -361,7 +361,7 @@ const INFO = {
 				},
 			],
 			linkText: "View Site Image",
-			link: "https://evilgeniuscreative.com/assets/img//web/ESP-nutrition.jpg",
+			link: "images/ESP.jpg",
 		},
 		{
 			title: "Xactly corp Community customizations",
@@ -406,7 +406,7 @@ const INFO = {
 		{
 			title: "aWhere: Created weather app and living Style Guide",
 			description:
-				"Created both a weather app from Angularjs and D3.js to provide farmers in developing countries with accurate weather reports. Also created a living style guide for the company from Angularjs.",
+				"Created both a weather app from Angularjs and D3.js to provide farmers in developing countries with accurate weather reports. Also created a living style guide for the company from Angularjs. No longer in business. Linked in only.",
 			logos: [
 				{ id: "18", software: "AngularJS", img: "images/angular.png" },
 				{ id: "54", software: "D3js", img: "images/d3.png" },
@@ -447,6 +447,56 @@ const INFO = {
 			],
 			linkText: "View Project",
 			link: "https://discoverysummit.jmp",
+		},
+		{
+			title: "Capital Broadcasting Company",
+			description:
+				"CBC needed to renew their site and this was the top design at the time. Image only due to many changes on the site.",
+			logos: [
+				{ id: "219", software: "HTML", img: "images/html5.png" },
+				{ id: "141", software: "SASS", img: "images/sass.png" },
+				{
+					id: "1481",
+					software: "Javascript",
+					img: "images/javascript.png",
+				},
+			],
+			linkText: "View Project",
+			link: "images/cbc.jpg",
+		},
+		{
+			title: "Danser Guitar Works",
+			description:
+				"Guitar shaped site for a custom luthier and builder. Image only.",
+			logos: [
+				{ id: "210", software: "Wordpress", img: "images/wordpress.png" },
+				{ id: "149", software: "SASS", img: "images/sass.png" },
+				{
+					id: "148",
+					software: "Javascript",
+					img: "images/javascript.png",
+				},
+				{ id: "295", software: "PHP", img: "images/php.png" },
+			],
+			linkText: "View Project",
+			link: "images/danser.jpg",
+		},
+		{
+			title: "ESP Nutrition",
+			description:
+				"Site selling nutrition coaching and supplements. Image only.",
+			logos: [
+				{ id: "321", software: "Wordpress", img: "images/wordpress.png" },
+				{ id: "159", software: "SASS", img: "images/sass.png" },
+				{
+					id: "189",
+					software: "Javascript",
+					img: "images/javascript.png",
+				},
+				{ id: "951", software: "PHP", img: "images/php.png" },
+			],
+			linkText: "View Project",
+			link: "images/ESP.jpg",
 		},
 	],
 };
