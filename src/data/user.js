@@ -56,7 +56,7 @@ const INFO = {
 					img: "images/javascript.png",
 				},
 			],
-			linkText: "View Project",
+			linkText: "View Site Image",
 			link: "https://evilgeniuscreative.com/Fidelity/",
 		},
 
@@ -68,7 +68,7 @@ const INFO = {
 				{ id: "2", software: "Wordpress", img: "images/wordpress.png" },
 				{ id: "95", software: "PHP", img: "images/php.png" },
 			],
-			linkText: "View Thumbnail",
+			linkText: "View Site Image",
 			link: "images/los-olivos.jpg",
 		},
 		{
@@ -101,7 +101,7 @@ const INFO = {
 				},
 				{ id: "90", software: "jQuery", img: "images/jquery.png" },
 			],
-			linkText: "JMP Community",
+			linkText: "View JMP Community",
 			link: "https://community.jmp.com",
 		},
 
@@ -246,7 +246,7 @@ const INFO = {
 				},
 				{ id: "71", software: "HTML5", img: "images/html5.png" },
 			],
-			linkText: "View Project",
+			linkText: "View Splunk Community",
 			link: "https://community.splunk.com",
 		},
 		{
@@ -461,7 +461,7 @@ const INFO = {
 					img: "images/javascript.png",
 				},
 			],
-			linkText: "View Project",
+			linkText: "View Site Image",
 			link: "images/cbc.jpg",
 		},
 		{
@@ -478,7 +478,7 @@ const INFO = {
 				},
 				{ id: "295", software: "PHP", img: "images/php.png" },
 			],
-			linkText: "View Project",
+			linkText: "View Site Image",
 			link: "images/danser.jpg",
 		},
 		{
@@ -495,7 +495,7 @@ const INFO = {
 				},
 				{ id: "951", software: "PHP", img: "images/php.png" },
 			],
-			linkText: "View Project",
+			linkText: "View Site Image",
 			link: "images/ESP.jpg",
 		},
 	],

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d29feaf1-6e66-4aa8-93be-98b302c40653" name="EGC" url="http://ftp.evilgeniuscreative.com">
+        <fileTransfer rootFolder="/public_html/" host="ftp.evilgeniuscreative.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
